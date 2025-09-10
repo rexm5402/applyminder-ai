@@ -1,0 +1,11 @@
+Software Engineer Intern — Google
+
+Responsibilities:
+- Develop and maintain scalable software solutions.
+- Work with cross-functional teams to design robust APIs.
+- Participate in code reviews and testing.
+
+Qualifications:
+- Proficiency in Python, Java, or C++.
+- Knowledge of RESTful APIs and distributed systems.
+- Strong problem-solving skills.
